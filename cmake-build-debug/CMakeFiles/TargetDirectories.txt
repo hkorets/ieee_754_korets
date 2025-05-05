@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/2.2/aks/ieee_754_korets/cmake-build-debug/CMakeFiles/ieee_754_korets.dir
+C:/Users/Admin/Desktop/2.2/aks/ieee_754_korets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/2.2/aks/ieee_754_korets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
